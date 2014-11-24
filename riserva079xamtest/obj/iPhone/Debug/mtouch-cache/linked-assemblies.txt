@@ -1,0 +1,16 @@
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/riserva079xamtest.exe
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Mono.CSharp.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.Primitives.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/Microsoft.CSharp.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll

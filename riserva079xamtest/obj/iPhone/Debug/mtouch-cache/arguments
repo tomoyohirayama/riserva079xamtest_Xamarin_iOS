@@ -1,0 +1,41 @@
+# Version: 8.4.0.16 (80e9ff7)
+# [first argument, ignore] # /Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/bin/iPhone/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.16/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/bin/iPhone/Debug/riserva079xamtest.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Net.Http.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Runtime.Serialization.dll \
+	-r \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/Components/azure-mobile-services-1.2.5/lib/ios/Microsoft.WindowsAzure.Mobile.Ext.dll \
+	-r \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/Components/azure-mobile-services-1.2.5/lib/ios/Microsoft.WindowsAzure.Mobile.dll \
+	-r \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/Components/azure-mobile-services-1.2.5/lib/ios/Newtonsoft.Json.dll \
+	-r \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/Components/azure-mobile-services-1.2.5/lib/ios/System.Net.Http.Extensions.dll \
+	-r \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/Components/azure-mobile-services-1.2.5/lib/ios/System.Net.Http.Primitives.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	8.0 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/hirayamatomoyo/Downloads/riserva079xamtest_Xamarin_iOS/riserva079xamtest/bin/iPhone/Debug/riserva079xamtest.exe \
